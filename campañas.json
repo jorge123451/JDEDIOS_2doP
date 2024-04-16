@@ -1,0 +1,76 @@
+[
+    {
+        "id": 1,
+        "nombre": "Campaña de correo electrónico",
+        "detalles": "Detalles adicionales de la campaña",
+        "fechaInicio": "2024-04-20",
+        "fechaFin": "2024-04-30",
+        "tipo": "correo electrónico",
+        "objetivo": "Incrementar las ventas",
+        "presupuesto": 1000,
+        "estado": "en curso",
+        "metricas": {
+            "conversiones": 100,
+            "tasaClics": 5.2,
+            "roi": 1.5
+        },
+        "responsable": "Equipo de marketing",
+        "informacionAdicional": "Información adicional sobre la campaña"
+    },
+    {
+        "id": 2,
+        "nombre": "Campaña en redes sociales",
+        "detalles": "Detalles adicionales de la campaña",
+        "fechaInicio": "2024-05-05",
+        "fechaFin": "2024-05-15",
+        "tipo": "redes sociales",
+        "objetivo": "Aumentar el engagement",
+        "presupuesto": 1500,
+        "estado": "planificada",
+        "metricas": {},
+        "responsable": "Equipo de redes sociales"
+    },
+    {
+        "id": 3,
+        "nombre": "Campaña de anuncios en línea",
+        "detalles": "Detalles adicionales de la campaña",
+        "fechaInicio": "2024-06-01",
+        "fechaFin": "2024-06-15",
+        "tipo": "anuncios en línea",
+        "objetivo": "Generar reconocimiento de marca",
+        "presupuesto": 2000,
+        "estado": "planificada",
+        "metricas": {},
+        "responsable": "Equipo de publicidad en línea"
+    },
+    {
+        "id": 4,
+        "nombre": "Campaña de eventos",
+        "detalles": "Detalles adicionales de la campaña",
+        "fechaInicio": "2024-07-10",
+        "fechaFin": "2024-07-20",
+        "tipo": "eventos",
+        "objetivo": "Fomentar la interacción con los clientes",
+        "presupuesto": 2500,
+        "estado": "en curso",
+        "metricas": {},
+        "responsable": "Equipo de eventos"
+    },
+    {
+        "id": 5,
+        "nombre": "Campaña de contenido",
+        "detalles": "Detalles adicionales de la campaña",
+        "fechaInicio": "2024-08-01",
+        "fechaFin": "2024-08-31",
+        "tipo": "contenido",
+        "objetivo": "Atraer tráfico orgánico al sitio web",
+        "presupuesto": 1800,
+        "estado": "completada",
+        "metricas": {
+            "conversiones": 300,
+            "tasaClics": 6.8,
+            "roi": 2.2
+        },
+        "responsable": "Equipo de marketing de contenido"
+    }
+]
